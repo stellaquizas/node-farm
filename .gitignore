@@ -128,3 +128,6 @@ dist
 
 # format configuration
 .prettierrc
+
+# macOS files
+.DS_Store
