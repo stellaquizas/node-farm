@@ -1,0 +1,134 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "image": "🥑",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices."
+  },
+  {
+    "id": 1,
+    "productName": "Goat and Sheep Cheese",
+    "image": "🧀",
+    "from": "Portugal",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Creamy and distinct in flavor, goat cheese is a dairy product enjoyed around the world. Goat cheese comes in a wide variety of flavors and textures, from soft and spreadable fresh cheese to salty, crumbly aged cheese. Although it’s made using the same coagulation and separation process as cheese made from cow’s milk, goat cheese differs in nutrient content."
+  },
+  {
+    "id": 2,
+    "productName": "Apollo Broccoli",
+    "image": "🥦",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
+  },
+  {
+    "id": 3,
+    "productName": "Baby Carrots",
+    "image": "🥕",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
+  },
+  {
+    "id": 4,
+    "productName": "Sweet Corncobs",
+    "image": "🌽",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 5,
+    "productName": "Wild Salmon Fillet",
+    "image": "🐟",
+    "from": "Norway",
+    "nutrients": "Omega-3 fatty acids, Vitamin D",
+    "quantity": "250g",
+    "price": "12.99",
+    "organic": true,
+    "description": "Wild salmon is a nutrient-dense fish that is high in heart-healthy omega-3 fatty acids and vitamin D. It is an excellent source of protein and essential vitamins and minerals, including potassium, selenium, and vitamin B12. Wild salmon is also low in calories and saturated fat, making it a healthy addition to any diet."
+  },
+  {
+    "id": 6,
+    "productName": "Organic Blueberries",
+    "image": "🫐",
+    "from": "USA",
+    "nutrients": "Vitamin C, Fiber",
+    "quantity": "500g",
+    "price": "8.00",
+    "organic": true,
+    "description": "Blueberries are a delicious and nutritious fruit that are high in antioxidants and vitamins C and K. They are also a good source of dietary fiber, which can help improve digestion and prevent chronic diseases such as heart disease and diabetes. Organic blueberries are grown without the use of harmful pesticides and chemicals, making them a healthier choice for both you and the environment."
+  },
+  {
+    "id": 7,
+    "productName": "Organic Quinoa",
+    "image": "🍚",
+    "from": "Bolivia",
+    "nutrients": "Protein, Fiber",
+    "quantity": "500g",
+    "price": "6.99",
+    "organic": true,
+    "description": "Quinoa is a superfood that is high in protein, fiber, and essential vitamins and minerals. It is a gluten-free grain that is also low in calories and fat, making it an ideal food for weight loss and maintenance. Organic quinoa is grown without the use of harmful chemicals and pesticides, making it a healthier and more sustainable choice."
+  },
+  {
+    "id": 8,
+    "productName": "Grass-fed Beef Ribeye Steak",
+    "image": "🥩",
+    "from": "Argentina",
+    "nutrients": "Protein, Iron",
+    "quantity": "300g",
+    "price": "18.99",
+    "organic": false,
+    "description": "Grass-fed beef is a healthier and more sustainable option than conventionally raised beef. It is lower in total fat and calories and higher in heart-healthy omega-3 fatty acids and conjugated linoleic acid (CLA), which has been shown to reduce the risk of cancer and other chronic diseases. Grass-fed beef ribeye steak is a flavorful and tender cut of meat that is perfect for grilling or pan-searing."
+  },
+  {
+    "id": 9,
+    "productName": "Granny Smith Apples",
+    "image": "🍏",
+    "from": "Australia",
+    "nutrients": "Vitamin C, Fiber",
+    "quantity": "6 🍏",
+    "price": "4.50",
+    "organic": true,
+    "description": "The Granny Smith apple is a crisp, tart apple with a bright green skin. It is named after Maria Ann Smith, who propagated the apple in Australia in the 1860s. Granny Smith apples are excellent for baking, as their firm flesh holds up well in pies and tarts. They are also a great addition to salads, or can be eaten on their own as a healthy snack."
+  },
+  {
+    "id": 10,
+    "productName": "Red Seedless Grapes",
+    "image": "🍇",
+    "from": "Spain",
+    "nutrients": "Vitamin C, Fiber",
+    "quantity": "1 lb",
+    "price": "3.99",
+    "organic": false,
+    "description": "Red seedless grapes are a delicious and nutritious fruit that is rich in antioxidants, fiber, and vitamins. They are a great addition to salads, smoothies, or can be eaten on their own as a healthy snack. Red seedless grapes can also be used to make jams, jellies, and sauces."
+  },
+  {
+    "id": 11,
+    "productName": "Sweet Potatoes",
+    "image": "🍠",
+    "from": "USA",
+    "nutrients": "Vitamin A, Fiber",
+    "quantity": "5 🍠",
+    "price": "6.50",
+    "organic": true,
+    "description": "Sweet potatoes are a nutritious and delicious root vegetable that is rich in vitamins, minerals, and antioxidants. They are a great source of fiber and vitamin A, and can be roasted, mashed, or used in a range of dishes, from soups to casseroles. Sweet potatoes are also a great alternative to regular potatoes and can be used in a range of recipes, from fries to pie."
+  }
+]
